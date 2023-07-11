@@ -1,0 +1,8 @@
+body{
+  background-image: url('../images/image1.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+a{
+  text-decoration: none;
+}
